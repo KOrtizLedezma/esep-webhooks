@@ -1,0 +1,6 @@
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll

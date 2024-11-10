@@ -1,0 +1,17 @@
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.deps.json
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.runtimeconfig.json
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.pdb
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/refint/EsepWebhook.dll
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/mnt/nvme1n1/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/AWS/esep-webhooks/EsepWebhook/src/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
